@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yusufbaris78
+- 👀 I’m interested in data science and game design
+- 🌱 I’m currently learning python, html, css
